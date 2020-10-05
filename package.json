@@ -1,6 +1,6 @@
 {
   "name": "csv-text-parser",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "description": "A utility to parse csv text and write data as csv text.",
   "main": "index.js",
   "repository": {
